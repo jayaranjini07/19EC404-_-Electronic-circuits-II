@@ -6,13 +6,11 @@
 
 # Circuit Diagram 
 
-<img width="1917" height="961" alt="Screenshot 2025-09-21 204341" src="https://github.com/user-attachments/assets/067a46e4-34ee-463c-a25c-e5bb29745bb1" />
-
+<img width="1112" height="509" alt="image" src="https://github.com/user-attachments/assets/37c2092d-22d5-4d51-8e16-59908a6e1658" />
 
 # Output Graph
 
-<img width="1919" height="1079" alt="Screenshot 2025-09-21 204411" src="https://github.com/user-attachments/assets/bd6276bc-8b87-4799-9912-07e5e7615350" />
-
+<img width="1130" height="508" alt="image" src="https://github.com/user-attachments/assets/b843a1a9-b835-41dd-bce6-404bc79cb056" />
 
 # Result
 
