@@ -13,4 +13,4 @@
 
 # Result
 
-
+Thus the tuned collector oscillator using the LTSpice software is generated successfully.
